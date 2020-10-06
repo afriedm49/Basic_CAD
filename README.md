@@ -50,6 +50,8 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 ### Image
 
+<img src="https://github.com/afriedm49/Basic_CAD/blob/Images/Screen%20Shot%202020-10-06%20at%201.48.52%20PM.png" width = "400">
+
 ### Reflection
 
 ---
@@ -83,8 +85,6 @@ I also learned about different tools for sketching on Onshape, like the use tool
 ### Evidence
 
 ### Image
-
-<img src="https://github.com/afriedm49/Basic_CAD/blob/Images/Screen%20Shot%202020-10-06%20at%201.48.52%20PM.png" width = "400">
 
 ### Reflection
 
