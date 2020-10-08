@@ -91,6 +91,7 @@ I learned that how to:
 ### Evidence
 
 ### Image
+<img src ="https://github.com/afriedm49/Basic_CAD/blob/Images/Screen%20Shot%202020-10-08%20at%201.53.27%20PM.png" width = "400">
 
 ### Reflection
 
@@ -104,6 +105,7 @@ I learned that how to:
 ### Evidence
 
 ### Image
+<img src ="https://github.com/afriedm49/Basic_CAD/blob/Images/Screen%20Shot%202020-10-08%20at%201.53.07%20PM.png" width = "400">
 
 ### Reflection
 
