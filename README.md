@@ -124,11 +124,20 @@ This part was somewhat difficult compared to the others, but it was alright.
 ## AxleCollarBearings
 
 ### Description
+This is 4 different parts:
+* The axle is a long cylinder, with a flat piece cut out on each end of the top for a set screw to go in place.
+* The collar fits snug around the axle, with 2 holes across from each other for the set screws.
+* The bearings are just two different size washers.
 
 ### Evidence
+[Axle, collar, and Large Bearing](https://cvilleschools.onshape.com/documents/3323717cd26c0441020d2687/w/a98a010ac513d68620cad2e6/e/252f63e49b3d14a4f28b5906)
+(The small bearing is on the part studio with the wheel and tire.)
 
 ### Image
 
 ### Reflection
+This section wasn't that difficult, it just took time to make all 4 pieces.
+I learned how to create a new part just using the dimensions of a different part (I did this with the mount and base, but forgot how to).
+I'm wondering where the large bearing will go? It doesn't seem to fit on the axle so i wonder where it will go.
 
 ---
