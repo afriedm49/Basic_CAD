@@ -133,7 +133,9 @@ This is 4 different parts:
 [Axle, collar, and Large Bearing](https://cvilleschools.onshape.com/documents/3323717cd26c0441020d2687/w/a98a010ac513d68620cad2e6/e/252f63e49b3d14a4f28b5906)
 (The small bearing is on the part studio with the wheel and tire.)
 
-### Image
+### Images
+<img src ="https://github.com/afriedm49/Basic_CAD/blob/Images/Axle%20collar%20bearing.png" width = "200">
+<img src ="https://github.com/afriedm49/Basic_CAD/blob/Images/Bearing%20small.png" width = "200">
 
 ### Reflection
 This section wasn't that difficult, it just took time to make all 4 pieces.
