@@ -87,13 +87,18 @@ I learned that how to:
 ## Tire
 
 ### Description
-
+The Tire uses the Revolve feature on a Trapezoid, and uses fillets to round off the edges.
 ### Evidence
-
+[Tire in Onshape](https://cvilleschools.onshape.com/documents/3323717cd26c0441020d2687/w/a98a010ac513d68620cad2e6/e/adc941f39ef989e45432c06d)
 ### Image
 <img src ="https://github.com/afriedm49/Basic_CAD/blob/Images/Screen%20Shot%202020-10-08%20at%201.53.27%20PM.png" width = "400">
 
 ### Reflection
+
+I learned how to:
+* Use the revolve feature to make a circular 3d shape
+* Use centerlines for revolving features
+That's pretty much it, it wasn't anything difficult, but it is a cool new piece.
 
 ---
 
@@ -101,13 +106,17 @@ I learned that how to:
 ## Wheel
 
 ### Description
-
+Wheel is also a revolve feature, but with an outer edge and inner circle, with 5 spokes like a normal wheel.
 ### Evidence
-
+[Wheel in Onshape](https://cvilleschools.onshape.com/documents/3323717cd26c0441020d2687/w/a98a010ac513d68620cad2e6/e/adc941f39ef989e45432c06d)
 ### Image
 <img src ="https://github.com/afriedm49/Basic_CAD/blob/Images/Screen%20Shot%202020-10-08%20at%201.53.07%20PM.png" width = "400">
 
 ### Reflection
+I learned how to:
+* Use angles for constructing features to extrude (For the spokes on the wheels)
+This was helpful for creating the right dimensions on the extruded cut on the wheel.
+This part was somewhat difficult compared to the others, but it was alright.
 
 ---
 
