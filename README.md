@@ -11,6 +11,7 @@ We are creating a caster.
 * [Tire](#Tire)
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
+* [SubAssembly](#SubAssembly)
 
 ## Base
 
@@ -141,5 +142,18 @@ This is 4 different parts:
 This section wasn't that difficult, it just took time to make all 4 pieces.
 I learned how to create a new part just using the dimensions of a different part (I did this with the mount and base, but forgot how to).
 I'm wondering where the large bearing will go? It doesn't seem to fit on the axle so i wonder where it will go.
+
+---
+## SubAssembly
+
+### Description
+
+
+### Evidence
+
+### Images
+
+
+### Reflection
 
 ---
