@@ -12,6 +12,7 @@ We are creating a caster.
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
 * [SubAssembly](#SubAssembly)
+* [FullAssembly](#FullAssembly)
 
 ## Base
 
@@ -153,7 +154,7 @@ The subassembly is the tire, wheel, axle and bearings. The wheel fits in the tir
 [SubAssembly](https://cvilleschools.onshape.com/documents/3323717cd26c0441020d2687/w/a98a010ac513d68620cad2e6/e/4d0db453a1f2e15c282e0832) 
 
 ### Images
-
+<img src ="https://github.com/afriedm49/Basic_CAD/blob/Images/Subassembly.png" width = "300">
 
 ### Reflection
 Doing this I learned:
@@ -172,7 +173,7 @@ This combined the SubAssembly with the rest of the caster parts. The base and Mo
 [FullAssembly](https://cvilleschools.onshape.com/documents/3323717cd26c0441020d2687/w/a98a010ac513d68620cad2e6/e/67a51f8536fad60007e21cbf)
 
 ### Images
-
+<img src ="https://github.com/afriedm49/Basic_CAD/blob/Images/Full%20caster.png" width = "300">
 
 ### Reflection
 I learned how to:
