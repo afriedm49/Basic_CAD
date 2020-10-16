@@ -147,13 +147,38 @@ I'm wondering where the large bearing will go? It doesn't seem to fit on the axl
 ## SubAssembly
 
 ### Description
-
+The subassembly is the tire, wheel, axle and bearings. The wheel fits in the tire with a fasten mate, and they both fasten to the origin. The axle goes through the center, with a revolute mate, and the bearings go on the sides of the wheel, with a revolute mate as well.
 
 ### Evidence
+[SubAssembly](https://cvilleschools.onshape.com/documents/3323717cd26c0441020d2687/w/a98a010ac513d68620cad2e6/e/4d0db453a1f2e15c282e0832) 
 
 ### Images
 
 
 ### Reflection
+Doing this I learned:
+* Revolute mates
+* Fasten Mates
+* How to add items to an assembly
+
+This was my first time making an assembly on Onshape.
+
+## FullAssembly
+
+### Description
+This combined the SubAssembly with the rest of the caster parts. The base and Mount are fastened together with screws and nuts. The Fork goes through the center hole, with a hex nut holding it on the base. The SubAssembly goes through the fork  with a revolute mate, and collars are put on the ends of the axle, with set screws.
+
+### Evidence
+[FullAssembly](https://cvilleschools.onshape.com/documents/3323717cd26c0441020d2687/w/a98a010ac513d68620cad2e6/e/67a51f8536fad60007e21cbf)
+
+### Images
+
+
+### Reflection
+I learned how to:
+* Use parallel mates (For the collars)
+* Bring in screws and nuts from the standard content studio on Onshape.
+
+It was very difficult for me to get the mate connectors to line up. Even though it takes more steps, I prefer the Solidworks mate process.
 
 ---
