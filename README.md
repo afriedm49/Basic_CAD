@@ -13,6 +13,8 @@ We are creating a caster.
 * [AxleCollarBearings](#AxleCollarBearings)
 * [SubAssembly](#SubAssembly)
 * [FullAssembly](#FullAssembly)
+* [DorothyDowels](#DorothyDowels)
+* [DorothyDowelAssembly](#DorothyDowelAssembly)
 
 ## Base
 
@@ -183,3 +185,45 @@ I learned how to:
 It was very difficult for me to get the mate connectors to line up. Even though it takes more steps, I prefer the Solidworks mate process.
 
 ---
+## DorothyDowels
+
+### Description
+The Dorothy Dowels are 16 dowel pins that use configurations to change the sizes. 
+There are 4 different lengths: 1/2, 1, 3/2, and 2 (inches)
+There are 4 different widths: 1/4, 3/8, 1/2, 5/8 (inches)
+Each length configuration will work with each width configuration, so there are 16 total.
+
+### Evidence
+[DorothyDowels](https://cvilleschools.onshape.com/documents/a9711a53c3716a55ca1e1487/w/cde954bc83cc684111531ad9/e/2193e803ac7379b7a3fd3e31)
+
+### Images
+<img src ="" width = "300">
+
+### Reflection
+I learned how to:
+* Create configurations in onshape
+* Add values and features to each configuration
+It is cool how Onshape has a bar in the top left to switch the configuration easily. It is a lot easier than Solidworks to use.
+
+
+---
+
+## DorothyDowelAssembly 
+
+### Description
+The Dorothy Dowel assembly holds a rectangular frame together with 8 dowels, 1/4 inch thick, 4 of them 1 inch and 4 of them 2 inches.The frame is 4 trapezoidal pieces with holes on the sides to fit the dowels in and hold it together.
+
+### Evidence
+[DorothyDowelAssembly](https://cvilleschools.onshape.com/documents/a9711a53c3716a55ca1e1487/w/cde954bc83cc684111531ad9/e/1dfcc0d5af5ab6dde8fbe81c)
+
+### Images
+<img src ="" width = "300">
+
+### Reflection
+I learned how to:
+* Choose configurations when creating an assembly. 
+* Make parts trasparent. I used this to see the inside of the frame while still showing the sides.
+
+
+---
+
