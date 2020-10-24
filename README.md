@@ -197,7 +197,7 @@ Each length configuration will work with each width configuration, so there are 
 [DorothyDowels](https://cvilleschools.onshape.com/documents/a9711a53c3716a55ca1e1487/w/cde954bc83cc684111531ad9/e/2193e803ac7379b7a3fd3e31)
 
 ### Images
-<img src ="" width = "300">
+<img src ="https://github.com/afriedm49/Basic_CAD/blob/Images/Dowel%20rod.png?raw=true" width = "150">
 
 ### Reflection
 I learned how to:
@@ -217,7 +217,7 @@ The Dorothy Dowel assembly holds a rectangular frame together with 8 dowels, 1/4
 [DorothyDowelAssembly](https://cvilleschools.onshape.com/documents/a9711a53c3716a55ca1e1487/w/cde954bc83cc684111531ad9/e/1dfcc0d5af5ab6dde8fbe81c)
 
 ### Images
-<img src ="" width = "300">
+<img src ="https://github.com/afriedm49/Basic_CAD/blob/Images/Dowel%20frame.png?raw=true" width = "400">
 
 ### Reflection
 I learned how to:
