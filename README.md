@@ -15,6 +15,7 @@ We are creating a caster.
 * [FullAssembly](#FullAssembly)
 * [DorothyDowels](#DorothyDowels)
 * [DorothyDowelAssembly](#DorothyDowelAssembly)
+* [CollabChallenge](#CollabChallenge)
 
 ## Base
 
@@ -224,6 +225,23 @@ I learned how to:
 * Choose configurations when creating an assembly. 
 * Make parts trasparent. I used this to see the inside of the frame while still showing the sides.
 
-
 ---
 
+## CollabChallenge 
+
+### Description
+This Collaboration challenge was a group Onshape project between Jamil, Zhivan, and I. We made a plunger type object, with a base to hold it together.
+
+### Evidence
+[CollabChallenge](https://cvilleschools.onshape.com/documents/de9a17b3ca472f15176c7a87/w/4a2eb0c2c78dba2f95ff702e/e/5b947fe9116c44ff1bff8606)
+
+### Images
+<img src ="https://github.com/afriedm49/Basic_CAD/blob/Images/Screen%20Shot%202020-10-31%20at%2011.15.34%20AM.png" width = "250">
+
+### Reflection
+I learned how to:
+* Use slider mates (For the plunger to go up and down)
+* Have multiple people on a document at the same time. I didn't know that was possible until this week.
+* Set slider mates to only reach a certain distance.
+
+---
